@@ -18,7 +18,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="images/test11.jpg" height="250" width="100%" alt="Los Angeles">
+            <img src="/images/test11.jpg" height="250" width="100%" alt="Los Angeles">
             <div class="carousel-caption">
                 <h3>Los Angeles</h3>
                 <p>LA is always so much fun!</p>
@@ -26,7 +26,7 @@
         </div>
 
         <div class="item">
-            <img src="images/test2.jpg" height="200" width="100%"  alt="Chicago">
+            <img src="/images/test2.jpg" height="200" width="100%"  alt="Chicago">
             <div class="carousel-caption">
                 <h3>Chicago</h3>
                 <p>Thank you, Chicago!</p>
@@ -34,11 +34,11 @@
         </div>
 
         <div class="item">
-            <img src="images/test3.jpg" height="200" width="100%"  alt="New York">
+            <img src="/images/test3.jpg" height="200" width="100%"  alt="New York">
         </div>
 
         <div class="item">
-            <img src="images/test4.jpg"  height="200" width="100%" alt="New York">
+            <img src="/images/test4.jpg"  height="200" width="100%" alt="New York">
         </div>
     </div>
 
@@ -52,7 +52,7 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
-@yield('content')
 
+@yield('content')
 
 @extends('layouts.footer')

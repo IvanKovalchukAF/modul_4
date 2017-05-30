@@ -11,12 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('layouts.main');
-});
+Route::get('/', 'CategoriesController@index');
+
 Route::get('/admin', function () {
     return view('admin-lte/admin_template');
 });
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/category/{id}', 'CategoriesController@show');
+
+Route::get('/post/{id}', 'PostsController@show');
