@@ -3,7 +3,7 @@
 <header class="main-header">
 
     <!-- Logo -->
-    <a href="/" class="logo"><b>Головна </b>Shop-Bags
+    <a href="/" class="logo"><b>На главную </b>News-Portal
     </a>
 
     <!-- Header Navbar -->

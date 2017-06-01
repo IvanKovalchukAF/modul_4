@@ -4,5 +4,5 @@
         Anything you want
     </div>
     <!-- Default to the left -->
-    <strong>Copyright © 2015 <a href="#">Company</a>.</strong> All rights reserved.
+    <strong>PHPacadamy © 2017 <a href="#">Modul №4</a>.</strong>
 </footer>

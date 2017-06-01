@@ -23,14 +23,46 @@ class PostsController extends Controller
         return Image::where('post_id', $id)->get();
     }
 
+    /*show Post*/
     public function show($id)
     {
         $users = User::all();
 /*        dd(compact('users'));*/
         $images = $this->getImagesByPostId($id);
-        $post = Post::findOrFail($id);
+        $post = Post::find($id);
         event(new PostHasViewed($post));
 
         return view('layouts.post', compact('post'), compact('images'), compact('users'));
     }
+
+    /*Start like method */
+
+    public function isLikedByMe($id)
+    {
+        $post = Post::find($id)->first();
+        if (Like::whereUserId(Auth::id())->wherePostId($post->id)->exists()){
+            return 'true';
+        }
+        return 'false';
+    }
+
+    public function like(Post $post)
+    {
+        $existing_like = Like::withTrashed()->wherePostId($post->id)->whereUserId(Auth::id())->first();
+
+        if (is_null($existing_like)) {
+            Like::create([
+                'post_id' => $post->id,
+                'user_id' => Auth::id()
+            ]);
+        } else {
+            if (is_null($existing_like->deleted_at)) {
+                $existing_like->delete();
+            } else {
+                $existing_like->restore();
+            }
+        }
+    }
+    /*End like method */
+
 }

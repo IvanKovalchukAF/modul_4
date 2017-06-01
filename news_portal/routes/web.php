@@ -22,3 +22,24 @@ Route::get('/category/{id}', 'CategoriesController@show');
 Route::get('/post/{id}', 'PostsController@show');
 
 Route::get('/post/{post}/comments/{id}', 'CommentsController@store');
+
+Route::get('post/{id}/islikedbyme', 'PostController@isLikedByMe');
+
+Route::post('post/like', 'PostController@like');
+
+Route::get('/home/crud', 'CrudController@index');
+
+Route::post('/home/crud', 'CrudController@store');
+
+Route::get('/crud/create', 'CrudController@create');
+
+Route::get('/crud/edit/{id}', 'CrudController@edit');
+
+Route::patch('/crud/{post}', 'CrudController@update');
+
+Route::get('/crud/delete/{post}', 'CrudController@destroy');
+
+Route::get('/crud/delete/image', 'CrudController@destroyImg');
+
+
+

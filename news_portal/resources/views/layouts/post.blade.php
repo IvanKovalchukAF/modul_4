@@ -64,6 +64,7 @@
                                     <button type="submit" class="btn btn-primary"> Добавить коментарий</button>
                                 </div>
                             </form>
+                            @include('button')
                         </div>
                         Количество просмотров  {{$post->view_count}}
                     </div>
