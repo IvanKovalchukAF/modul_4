@@ -14,9 +14,7 @@
                         @if($category->id == $post->category_id)
                             <hr>
                             <h4><a href="/post/{{$post->id}}">{{$post->title}}</a></h4>
-{{--
-                            <h5>{{$post->intro}}</h5>
---}}
+                            {{--<h5>{{$post->intro}}</h5>--}}
                         @endif
                     @endforeach
                      {{$posts->render()}}
@@ -28,3 +26,4 @@
         </div>
     </div>
 @endsection
+

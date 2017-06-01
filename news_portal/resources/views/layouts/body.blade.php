@@ -1,4 +1,9 @@
-@extends('layouts.head')
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    @include('layouts.head')
+</head>
+
 
 <body>
 {{--________________________navbar______________________________--}}
@@ -55,4 +60,6 @@
 
 @yield('content')
 
-@extends('layouts.footer')
+@include('layouts.footer')
+</body>
+</html>

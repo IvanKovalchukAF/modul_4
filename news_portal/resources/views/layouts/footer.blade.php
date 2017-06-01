@@ -3,6 +3,3 @@
     </p>
     <script type="text/javascript" src="{{ URL::asset('js/custom.js') }}"></script>
 </footer>
-
-</body>
-</html>
