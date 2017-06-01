@@ -10,14 +10,12 @@ use DB;
 
 class CategoriesController extends Controller
 {
-
-
     public function index()
     {
         $posts = DB::table('posts')
             ->orderBy('created_at')
-            ->limit(25)
             ->get();
+
         $categories = Category::all();
         return view('layouts.main', compact('categories'), compact('posts'));
     }
@@ -32,6 +30,6 @@ class CategoriesController extends Controller
                 ->Paginate(5);
             return view('layouts.category', compact('category'), compact('posts'));
         }
-        return 'Категория не найдена';
+        return 'Даная категория не существует';
     }
 }

@@ -10,16 +10,25 @@
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="#">One</a></li>
                         <li><a href="#">Two</a></li>
-                        <li class="dropdown"><a href="#">Three</a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">One</a></li>
-                                <li><a href="#">Two</a></li>
-                                <li class="dropdown"><a href="#">Three</a></li>
-                            </ul></li>
+                        <div class="navbar-header">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle navbar-brand" data-toggle="dropdown" role="button" aria-expanded="false">
+                                        Logo<span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">One</a></li>
+                                        <li><a href="#">Two</a></li>
+                                        <li><a href="#">More</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
                     </ul>
                 </li>
             </ul>
         </div>
+
         <div class="collapse navbar-collapse" id="myNavbar">
 
             <ul class="nav navbar-nav">

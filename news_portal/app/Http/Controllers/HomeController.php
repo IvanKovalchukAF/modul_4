@@ -25,4 +25,11 @@ class HomeController extends Controller
     {
         return view('admin-lte.admin_template');
     }
+
+    public function auth()
+    {
+        return view('admin-lte.admin_template');
+    }
+
+
 }

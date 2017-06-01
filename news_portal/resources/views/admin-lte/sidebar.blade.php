@@ -41,7 +41,7 @@
                 </ul>
             </li>
             <li class="active">
-                <a href="calendar.html">
+                <a href="{{--calendar.html--}}#">
                     <i class="fa fa-calendar"></i> <span>Calendar</span>
                     <span class="pull-right-container">
               <small class="label pull-right bg-red">3</small>
@@ -50,13 +50,15 @@
                 </a>
             </li>
             <li>
-                <a href="mailbox.html">
+                <a href="{{--mailbox.html--}}#">
                     <i class="fa fa-envelope"></i> <span>Mailbox</span>
                     <span class="pull-right-container">
               <small class="label pull-right bg-yellow">12</small>
               <small class="label pull-right bg-green">16</small>
               <small class="label pull-right bg-red">5</small>
             </span>
+                </a>
+            </li>
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->

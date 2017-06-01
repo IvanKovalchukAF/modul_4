@@ -17,9 +17,12 @@ class CreatePostsTeble extends Migration
             $table->increments('id');
             $table->string('title');
             $table->integer('category_id');
+            $table->integer('user_id');
+            $table->integer('view_count')->default(0);
             $table->text('intro');
             $table->text('body');
-            $table->timestamps();
+            $table->timestamp('created_at')->default(\DB::raw('CURRENT_TIMESTAMP'));
+            $table->timestamp('updated_at')->default(\DB::raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
         });
     }
 
