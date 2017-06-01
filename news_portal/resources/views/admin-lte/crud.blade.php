@@ -1,7 +1,7 @@
 @extends('admin-lte.admin_template')
 
 @section('content')
-    <div class="row" {{$page_title1 or $page_title = 'Страница для работы с товаром'}}>
+    <div class="row" {{$page_title1 or $page_title = 'Страница для работы с новостями'}}>
         <div class="col-xs-12">
             <div class="box">
                 <div class="box-header">
@@ -18,7 +18,7 @@
                 <!-- /.box-header -->
                 <div class="box-body table-responsive no-padding tools">
                     <form method="get" action="{{url('/crud/create')}}">
-                        <button type="submit">Добавить товар</button>
+                        <button type="submit">Добавить новость</button>
                     </form>
                     <table class="table table-hover">
                         <tr>
@@ -31,7 +31,7 @@
                             <th>Images</th>
                         </tr>
 
-                        <?php $posts = App\Post::paginate(10)?>
+                        <?php $posts = App\Post::paginate(5)?>
                         @foreach( $posts as $post)
                             <tr>
                                 <td><h4>{{ $post['id'] }}</h4></td>

@@ -41,5 +41,20 @@ Route::get('/crud/delete/{post}', 'CrudController@destroy');
 
 Route::get('/crud/delete/image', 'CrudController@destroyImg');
 
+Route::get('/crud/categories', function () {
+    return view('admin-lte.category.categories');
+});
 
+Route::get('/crud/category/{id}', 'CrudController@showPostsById');
 
+Route::get('/crud/create/category', function () {
+    return view('admin-lte.category.createCategory');
+});
+
+Route::post('/crud/create/category', 'CrudController@createCategory');
+
+Route::get('/crud/edit/category/{category}', 'CrudController@editCategory');
+
+Route::patch('/crud/edit/category/{category}', 'CrudController@updateCategory');
+
+Route::get('/crud/delete/category/{category}', 'CrudController@destroyCategory');

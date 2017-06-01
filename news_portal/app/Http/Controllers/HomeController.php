@@ -23,12 +23,12 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('admin-lte.admin_template');
+        return view('admin-lte.home');
     }
 
     public function auth()
     {
-        return view('admin-lte.admin_template');
+        return view('admin-lte.home');
     }
 
 

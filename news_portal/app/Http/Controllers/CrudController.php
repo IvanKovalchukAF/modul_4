@@ -5,8 +5,10 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 use App\Post;
+use App\Category;
 use App\Image;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\CategoriesController;
 use Illuminate\Support\Facades\Input;
 
 class CrudController extends Controller
@@ -43,6 +45,7 @@ class CrudController extends Controller
         return view('admin-lte.create');
     }
 
+    /*saving posts to DB*/
     public function store()
     {
         //Check from intruders
@@ -73,9 +76,9 @@ class CrudController extends Controller
             $postImg->save();
         }
 
-        return redirect('home/crud')->with($page_title1 = 'Товар добавлен');
+        return redirect('home/crud');
         /*___________________________________________________________*/
-        /*another methods for create products*/
+        /*another methods for create*/
         /*_______________________________________________________*/
         /*$this->validate(request(), [
             'name' => 'required',
@@ -152,7 +155,53 @@ class CrudController extends Controller
         $post = Post::find($id);
         $post->delete();
         return redirect('/home/crud');
+    }
+
+    public function showPostsById($id)
+    {
+        $category = Category::find($id);
+        if($category) {
+            $posts = DB::table('posts')
+                ->where('category_id', $category->id)
+                ->orderBy('created_at')
+                ->Paginate(5);
+            return view('admin-lte.posts', compact('category'), compact('posts'));
+        }
+        return 'Даная категория не существует';
+    }
+    /*___________create category___________*/
+    public function createCategory()
+    {
+        $category = new Category();
+        $category->name = request('name');
+        $category->save();
+
+        return view('admin-lte.category.categories');
 
     }
+    /*___________edit category___________*/
+    public function editCategory($id)
+    {
+        $category = Category::find($id);
+        return view('admin-lte.category.editCategory', ['category' => $category]);
+    }
+    /*___________update category___________*/
+    public function updateCategory($id)
+    {
+        $category = Category::find($id);
+
+        $category->name = request()->name;
+        $category->save();
+
+        return redirect('/crud/categories');
+    }
+/*_________delete category_________*/
+    public function destroyCategory($id)
+    {
+        $category = Category::find($id);
+        $category->delete();
+        return redirect('/crud/categories');
+    }
+
 
 }

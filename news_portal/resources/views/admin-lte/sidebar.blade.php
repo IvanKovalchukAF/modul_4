@@ -29,13 +29,14 @@
 
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu">
-            <li class="header">HEADER</li>
             <!-- Optionally, you can add icons to the links -->
             <li><a href="{{url('/home')}}"><span>На главную админ</span></a></li>
-            <li><a href="{{url('/home/crud')}}"><span>Все товары</span></a></li>
-            <li><a href="{{url('/test')}}"><span>Тестова сторінка</span></a></li>
+            <li class="header">Редактирование</li>
 
-            <li class="treeview">
+            <li><a href="{{url('/home/crud')}}"><span>Все новости</span></a></li>
+            <li><a href="{{url('/crud/categories')}}"><span>Категории</span></a></li>
+
+           {{-- <li class="treeview">
                 <a href="#"><span>Категории</span> <i class="fa fa-angle-left pull-right"></i></a>
                 <ul class="treeview-menu">
                     @foreach(App\Category::all() as $category)
@@ -44,18 +45,18 @@
                         </li>
                     @endforeach
                 </ul>
-            </li>
+            </li>--}}
 
-            <li class="treeview">
+            {{--<li class="treeview">
                 <a href="#"><span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
                 <ul class="treeview-menu">
                     <li><a href="#">Link in level 2</a></li>
                     <li><a href="#">Link in level 2</a></li>
                     <li><a href="#">Link in level 2</a></li>
                 </ul>
-            </li>
+            </li>--}}
 
-            <li class="active">
+            {{--<li class="active">
                 <a href="{{ url('/crud/calendar') }}">
                     <i class="fa fa-calendar"></i> <span>Calendar</span>
                     <span class="pull-right-container">
@@ -63,7 +64,7 @@
               <small class="label pull-right bg-blue">17</small>
             </span>
                 </a>
-            </li>
+            </li>--}}
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->

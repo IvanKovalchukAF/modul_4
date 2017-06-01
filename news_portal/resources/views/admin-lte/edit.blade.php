@@ -1,7 +1,7 @@
 @extends('admin-lte.admin_template')
 
 @section('content')
-    <div class="container" {{$page_title = 'Редактирование товара:'}}>
+    <div class="container" {{$page_title = 'Редактирование товости:'}}>
         <div class="row">
             <!-- edit form column -->
             <div class="col-md-9 personal-info">
@@ -17,7 +17,7 @@
                                 {{--<i class="fa fa-trash-o"></i>--}}
                         @endforeach
                             <br><br><br><br>
-                            <input type="file" name="file" id="file" value="Добавить картинку товара">
+                            <input type="file" name="file" id="file" value="Добавить картинку новости">
                         <br>
                     <div class="form-group">
                         <label class="col-lg-3 control-label">Название: </label>

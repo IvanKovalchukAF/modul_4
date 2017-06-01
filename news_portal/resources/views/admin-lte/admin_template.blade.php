@@ -4,6 +4,7 @@ This is a starter template page. Use this page to start your new project from
 scratch. This page gets rid of all links and provides the needed markup only.
 -->
 <html>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ $page_title or "AdminLTE Dashboard" }}</title>
@@ -64,9 +65,9 @@ desired effect
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->
             <section class="content-header">
+                <hr>
                 <h1>
-                    {{ $page_title or "Page Title" }}
-                    <small>{{ $page_description or null }}</small>
+                    {{ $page_title or null }}
                 </h1>
                 <!-- You can dynamically generate breadcrumbs here -->
                 <ol class="breadcrumb">
