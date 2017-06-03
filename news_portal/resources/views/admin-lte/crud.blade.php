@@ -1,7 +1,7 @@
 @extends('admin-lte.admin_template')
 
 @section('content')
-    <div class="row" {{$page_title1 or $page_title = 'Страница для работы с новостями'}}>
+    <div class="row" {{$page_title1 or $page_title = 'Страница для редактирования новостей'}}>
         <div class="col-xs-12">
             <div class="box">
                 <div class="box-header">
@@ -35,17 +35,11 @@
                         @foreach( $posts as $post)
                             <tr>
                                 <td><h4>{{ $post['id'] }}</h4></td>
-
                                 <td>{{ $post['title'] }}</td>
-
                                 <td>{{ $post['category_id'] }}</td>
-
                                 <td>{{ $post['user_id'] }}</td>
-
                                 <td>{{ substr(($post['intro']), 0, 50) }}</td>
-
                                 <td>{{ substr(($post->body), 0, 75) }}</td>
-
                                 <td>
                                 @foreach(App\Image::all() as $image)
                                     @if($post['id'] == $image['post_id'])
@@ -55,7 +49,7 @@
                                 </td>
                                 <td>
                                     <a href="/crud/edit/{{ $post['id'] }}" class="bt"><i class="fa fa-edit"></i></a>
-                                    <a href="/crud/delete/{{ $post['id'] }}" class="bt"><i class="fa fa-trash-o"></i></a>
+                                    <a href="/crud/delete/{{ $post['id'] }}" onclick="return confirm('Удалить файл?')" class="bt"><i class="fa fa-trash-o"></i></a>
                                 </td>
                             </tr>
                         @endforeach

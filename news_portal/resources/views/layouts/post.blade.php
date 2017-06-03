@@ -15,8 +15,7 @@
                             <img src="{{$image->path_image}}" height="300" width="700" alt="Иллюстрация" />
                         </p>
                     @endforeach
-                    <p>{{substr(($post->body), 0, 200)}} ...</p>
-                    <h4><a href="#">читать дальше</a></h4>
+                    <p>{{$post->body}}</p>
                 </div>
                 {{--show comments--}}
                 <hr>
@@ -29,28 +28,28 @@
                                 @endif
                             @endforeach
                             {{ $comment->created_at->diffForHumans() }} : &nbsp;
-                            <li class="list-group-item">
-
+                            <li class="list-group-item"><i></i>
                                 {{$comment->body}}
-
                             </li>
+                            <li>
+                                <button>like</button>
+                                <button>dontLike</button>
                         @endforeach
                     </ul>
                 </div>
                 {{--add a comments--}}
                 @if (Auth::guest())
-                    <li>Для того чтобы оставлять коментарии, Вам нужно зарегестрироваться! </li>
+                    <li>Для того чтобы оставить коментарий, Вам нужно  <a href="{{url('/register')}}">зарегистрироваться!</a></li>
                     <div class="card">
                         <div class="card-block">
                             <form>
                                 {{ csrf_field() }}
                                 <div class="form-group">
-                                    <textarea name="body" required placeholder="Ваш коментарий тут." class="form-control" ></textarea>
+
                                 </div>
                             </form>
                         </div>
                     </div>
-
                 @else
                     <div class="card">
                         <div class="card-block">
@@ -64,11 +63,10 @@
                                     <button type="submit" class="btn btn-primary"> Добавить коментарий</button>
                                 </div>
                             </form>
-                            @include('button')
                         </div>
-                        Количество просмотров  {{$post->view_count}}
                     </div>
                 @endif
+                Количество просмотров  {{$post->view_count}}
             </div>
             {{--_______________________Right column for advertising____________________--}}
             @include('layouts.advertising.right')

@@ -3,7 +3,7 @@
 <header class="main-header">
 
     <!-- Logo -->
-    <a href="/" class="logo"><b>На главную </b>News-Portal
+    <a href="/" class="logo"><b>на Главную сайта</b>
     </a>
 
     <!-- Header Navbar -->
@@ -119,32 +119,32 @@
                         <li class="user-header">
                             <img src="{{ asset("/bower_components/AdminLTE/dist/img/user2-160x160.jpg") }}" class="img-circle" alt="User Image" />
                             <p>
-                                {{ Auth::user()->name }} - Web Developer
-                                <small>Member since Nov. 2012</small>
+                                Пользователь - {{ Auth::user()->name }}
+                                <small>27 лет</small>
                             </p>
                         </li>
                         <!-- Menu Body -->
                         <li class="user-body">
                             <div class="col-xs-4 text-center">
-                                <a href="#">Followers</a>
+                                <a href="/crud/categories">Категории</a>
                             </div>
                             <div class="col-xs-4 text-center">
-                                <a href="#">Sales</a>
+                                <a href="/home">Главная</a>
                             </div>
                             <div class="col-xs-4 text-center">
-                                <a href="#">Friends</a>
+                                <a href="/home/crud">Все новости</a>
                             </div>
                         </li>
                         <!-- Menu Footer-->
                         <li class="user-footer">
                             <div class="pull-left">
-                                <a href="#" class="btn btn-default btn-flat">Profile</a>
+                                {{--<a href="#" class="btn btn-default btn-flat">Profile</a>--}}
                             </div>
                             <div class="pull-right">
                                 <a  href="{{ route('logout') }}" onclick="event.preventDefault();
                                     document.getElementById('logout-form').submit();"
                                     class="btn btn-default btn-flat">
-                                    Sign out
+                                    Выход
                                 </a>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                     {{ csrf_field() }}

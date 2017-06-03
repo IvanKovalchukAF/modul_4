@@ -5,15 +5,28 @@
                 <i class="fa fa-heart"></i>
                 <span class="likebtn-icon lb-like-icon">Like</span>
             </button>
+            <button class="btn btn-default like btn-login" ng-click="deathlike()">
+                <i class="fa fa-heart"></i>
+                <span class="likebtn-icon lb-like-icon">deathlike</span>
+            </button>
         @endif
     </span>
 </div>
+
 <script>
     var app = angular.module("Actions", []);
     app.controller("LikeController", function($scope, $http) {
 
         checkLike();
         $scope.like = function() {
+            var post = {
+                id: "{{ $post->id }}",
+            };
+            $http.post('/api/v1/post/like', post).success(function(result) {
+                checkLike();
+            });
+        };
+        $scope.deathlike = function() {
             var post = {
                 id: "{{ $post->id }}",
             };

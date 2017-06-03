@@ -25,8 +25,6 @@ Route::get('/post/{post}/comments/{id}', 'CommentsController@store');
 
 Route::get('post/{id}/islikedbyme', 'PostController@isLikedByMe');
 
-Route::post('post/like', 'PostController@like');
-
 Route::get('/home/crud', 'CrudController@index');
 
 Route::post('/home/crud', 'CrudController@store');
@@ -58,3 +56,8 @@ Route::get('/crud/edit/category/{category}', 'CrudController@editCategory');
 Route::patch('/crud/edit/category/{category}', 'CrudController@updateCategory');
 
 Route::get('/crud/delete/category/{category}', 'CrudController@destroyCategory');
+
+Route::post('post/like', 'PostController@like');
+
+Route::post('post/dontLike', 'PostController@deathlike');
+

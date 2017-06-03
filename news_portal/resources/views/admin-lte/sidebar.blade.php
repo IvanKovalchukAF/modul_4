@@ -30,41 +30,14 @@
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu">
             <!-- Optionally, you can add icons to the links -->
-            <li><a href="{{url('/home')}}"><span>На главную админ</span></a></li>
-            <li class="header">Редактирование</li>
+            <li><a href="{{url('/home')}}"><span>На главную админки</span></a></li>
+            <li class="header">РЕДАКТИРОВАНИЕ</li>
 
             <li><a href="{{url('/home/crud')}}"><span>Все новости</span></a></li>
             <li><a href="{{url('/crud/categories')}}"><span>Категории</span></a></li>
+            <li><a href="{{url('#')}}"><span>Коментарии</span></a></li>
+            <li><a href="{{url('#')}}"><span>Пользователи</span></a></li>
 
-           {{-- <li class="treeview">
-                <a href="#"><span>Категории</span> <i class="fa fa-angle-left pull-right"></i></a>
-                <ul class="treeview-menu">
-                    @foreach(App\Category::all() as $category)
-                        <li role="presentation" class="active">
-                            <a href="№" class="bt"><i class="fa fa-edit">{{$category->name}}</i></a>
-                        </li>
-                    @endforeach
-                </ul>
-            </li>--}}
-
-            {{--<li class="treeview">
-                <a href="#"><span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
-                <ul class="treeview-menu">
-                    <li><a href="#">Link in level 2</a></li>
-                    <li><a href="#">Link in level 2</a></li>
-                    <li><a href="#">Link in level 2</a></li>
-                </ul>
-            </li>--}}
-
-            {{--<li class="active">
-                <a href="{{ url('/crud/calendar') }}">
-                    <i class="fa fa-calendar"></i> <span>Calendar</span>
-                    <span class="pull-right-container">
-              <small class="label pull-right bg-red">3</small>
-              <small class="label pull-right bg-blue">17</small>
-            </span>
-                </a>
-            </li>--}}
         </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->

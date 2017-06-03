@@ -5,4 +5,5 @@
     </div>
     <!-- Default to the left -->
     <strong>PHPacadamy © 2017 <a href="#">Modul №4</a>.</strong>
+
 </footer>

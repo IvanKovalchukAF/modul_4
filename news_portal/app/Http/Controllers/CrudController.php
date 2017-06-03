@@ -21,6 +21,7 @@ class CrudController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+
     }
 
     /**
@@ -154,7 +155,7 @@ class CrudController extends Controller
     {
         $post = Post::find($id);
         $post->delete();
-        return redirect('/home/crud');
+        return back();
     }
 
     public function showPostsById($id)
@@ -200,7 +201,7 @@ class CrudController extends Controller
     {
         $category = Category::find($id);
         $category->delete();
-        return redirect('/crud/categories');
+        return back();
     }
 
 

@@ -20,7 +20,7 @@
 
     </ol>
 
-    <!-- Wrapper for slides -->
+    <!-- Wrapper for slides bootstrap myCarousel-->
     <div class="carousel-inner">
         <div class="item active">
             <img src="/images/test11.jpg" height="250" width="100%" alt="Los Angeles">
@@ -54,12 +54,14 @@
     </a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
+        <span class="sr-only"></span>
     </a>
 </div>
 
 @yield('content')
 
 @include('layouts.footer')
+
+@include('popup')
 </body>
 </html>

@@ -1,7 +1,7 @@
 @extends('admin-lte.admin_template')
 
 @section('content')
-    <div class="row" {{$page_title1 or $page_title = 'Страница для работы с товаром'}}>
+    <div class="row" {{$page_title1 or $page_title = 'Страница редактирования категорий '}} >
         <div class="col-xs-12">
             <div class="box">
                 <div class="box-header">
@@ -31,7 +31,7 @@
                                 <td><h4>{{ $category['name'] }}</h4></td>
                                 <td>
                                     <a href="/crud/edit/category/{{ $category['id'] }}" class="bt"><i class="fa fa-edit"></i></a>
-                                    <a href="/crud/delete/category/{{ $category['id'] }}" class="bt"><i class="fa fa-trash-o"></i></a>
+                                    <a href="/crud/delete/category/{{ $category['id'] }}" onclick="return confirm('Удалить файл?')" class="bt"><i class="fa fa-trash-o"></i></a>
                                 </td>
                             </tr>
                         @endforeach

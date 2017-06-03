@@ -13,7 +13,7 @@ class CategoriesController extends Controller
     public function index()
     {
         $posts = DB::table('posts')
-            ->orderBy('created_at')
+            ->orderBy('updated_at','DESC')
             ->get();
 
         $categories = Category::all();
@@ -26,7 +26,7 @@ class CategoriesController extends Controller
         if($category) {
             $posts = DB::table('posts')
                 ->where('category_id', $category->id)
-                ->orderBy('created_at')
+                ->orderBy('updated_at','DESC')
                 ->Paginate(5);
             return view('layouts.category', compact('category'), compact('posts'));
         }

@@ -5,11 +5,13 @@
     <div class="box-body table-responsive no-padding tools">
         <table class="table table-hover">
             <ul class="treeview-menu">
-                <h1>Список всех категорий :</h1>
+                <h2>Сортировка всех новостей по категориям :</h2>
+                <?php $number = 1 ; ?>
                 @foreach(App\Category::all() as $category)
                     <h3>
-                        <a href="/crud/category/{{$category->id}}" class="bt">{{$category->name}}</a>
+                        <a href="/crud/category/{{$category->id}}" class="bt">{{$number}} {{$category->name}}</a>
                     </h3>
+                    <?php $number++ ; ?>
                 @endforeach
             </ul>
         </table>
