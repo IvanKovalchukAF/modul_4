@@ -57,26 +57,18 @@ class CrudController extends Controller
         $post->user_id = request('user_id');
         $post->intro = request('intro');
         $post->body = request('body');
-
-
         //for choice only few things, not all,
         //we can use next method request like array
         //(\request(['price', 'name']));
-        //
         $post->save();
-
         if(Input::hasfile('file')){
             $file = Input::file('file');
             $file->move('media/images/', $file->getClientOriginalName());
-
             $postImg = new Image();
-
             $postImg->post_id = $post->id;
             $postImg->path_image = '/media/images/' . $file->getClientOriginalName();
-
             $postImg->save();
         }
-
         return redirect('home/crud');
         /*___________________________________________________________*/
         /*another methods for create*/
@@ -88,13 +80,10 @@ class CrudController extends Controller
             'price' => 'required',
             'latin_url' => 'required',
         ]);
-
         Goods::create(
            request(['name', 'description', 'category_id', 'price', 'latin_url'])
         );*/
-
         /*$product = new Goods();
-
         $product->name = request('name');
         $product->description = request('description');
         $product->category_id = request('category_id');
@@ -105,7 +94,6 @@ class CrudController extends Controller
         //(\request(['price', 'name']));
         //
         $product->save();*/
-
         /*Goods::create([
            'name' =>request('name'),
            'description' =>request('description'),
@@ -114,10 +102,8 @@ class CrudController extends Controller
            'latin_url' =>request('latin_url'),
         ]);*/
     }
-
     public function update($id)
     {
-
         /*update products*/
         $post = Post::find($id);//search product by id
         $this->validate(request(), [//Where We transmit request
@@ -127,7 +113,6 @@ class CrudController extends Controller
             'intro' => 'required',
             'body' => 'required',
         ]);
-
         $post->update(request(
             ['title', 'category_id', 'user_id', 'intro', 'body']
         ));
@@ -137,18 +122,12 @@ class CrudController extends Controller
         if(Input::hasfile('file')){ // add image, if has it
             $file = Input::file('file');
             $file->move('media/images/', $file->getClientOriginalName());
-
             $postImage = new Image();
-
             $postImage->post_id = $id;
             $postImage->path_image = '/media/images/' . $file->getClientOriginalName();
-
             $postImage->save();
         }
-
-
         return redirect('/home/crud');
-
     }
 
     public function destroy($id)
@@ -170,32 +149,32 @@ class CrudController extends Controller
         }
         return 'Даная категория не существует';
     }
+
     /*___________create category___________*/
     public function createCategory()
     {
         $category = new Category();
         $category->name = request('name');
         $category->save();
-
         return view('admin-lte.category.categories');
-
     }
+
     /*___________edit category___________*/
     public function editCategory($id)
     {
         $category = Category::find($id);
         return view('admin-lte.category.editCategory', ['category' => $category]);
     }
+
     /*___________update category___________*/
     public function updateCategory($id)
     {
         $category = Category::find($id);
-
         $category->name = request()->name;
         $category->save();
-
         return redirect('/crud/categories');
     }
+
 /*_________delete category_________*/
     public function destroyCategory($id)
     {

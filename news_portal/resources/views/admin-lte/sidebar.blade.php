@@ -35,8 +35,7 @@
 
             <li><a href="{{url('/home/crud')}}"><span>Все новости</span></a></li>
             <li><a href="{{url('/crud/categories')}}"><span>Категории</span></a></li>
-            <li><a href="{{url('#')}}"><span>Коментарии</span></a></li>
-            <li><a href="{{url('#')}}"><span>Пользователи</span></a></li>
+            <li><a href="{{url('/crud/comments')}}"><span>Коментарии</span></a></li>
 
         </ul><!-- /.sidebar-menu -->
     </section>

@@ -57,7 +57,21 @@ Route::patch('/crud/edit/category/{category}', 'CrudController@updateCategory');
 
 Route::get('/crud/delete/category/{category}', 'CrudController@destroyCategory');
 
-Route::post('post/like', 'PostController@like');
+Route::post('/post/like', 'CommentsController@like');
 
-Route::post('post/dontLike', 'PostController@deathlike');
+Route::post('/post/dislike', 'CommentsController@dislike');
+
+Route::get('/crud/comments', 'CommentsController@comments');
+
+Route::get('/crud/create/comments', 'CommentsController@createComments');
+
+Route::post('/crud/comments/save', 'CommentsController@saveComment');
+
+Route::get('/crud/edit/comment/{comment}', 'CommentsController@editComment');
+
+Route::patch('/crud/edit/comment/{comment}', 'CommentsController@updateComment');
+
+Route::get('/crud/delete/comment/{comment}', 'CommentsController@destroyComment');
+
+
 

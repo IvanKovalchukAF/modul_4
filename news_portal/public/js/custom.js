@@ -1,16 +1,54 @@
 /**
  * Created by artfire on 01.06.17.
  */
-// console.log(32164321);
-console.log(4444444);
-
-$(".q").click(function(){
-    $("p.js-little_text").hide();
+//console.log(4444444);
+$(document).ready(function() {
+    $(".js-like_button").click(function(e){
+        var commentId = $(e.target).data('comment-id');
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+        $.ajax({
+            url : '/post/like',
+            type : 'POST',
+            data : {
+                'comment_id' : commentId,
+                _token: CSRF_TOKEN
+            },
+            dataType:'json',
+            success : function(data) {
+                $(e.target).html('like ' + data.like_count);
+                console.log(data);
+            },
+        });
+    });
 });
 
+
+$(document).ready(function() {
+    $(".js-dislike_button").click(function(e){
+        var commentId = $(e.target).data('comment-id');
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+        $.ajax({
+            url : '/post/dislike',
+            type : 'POST',
+            data : {
+                'comment_id' : commentId,
+                _token: CSRF_TOKEN
+            },
+            dataType:'json',
+            success : function(data) {
+                $(e.target).html('dislike ' + data.dislike_count);
+                console.log(data);
+            },
+        });
+    });
+});
+
+
+/*
 $(".q").click(function(){
     $("p.q").show();
 });
+*/
 
 /* closing confirmation page */
 function Unloader(){
@@ -55,5 +93,3 @@ $(function(){
 
 /* end - closing confirmation page */
 
-var delay_popup = 15000;
-setTimeout("document.getElementById('bg_popup').style.display='block'", delay_popup);

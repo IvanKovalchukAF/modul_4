@@ -31,9 +31,8 @@
                             <li class="list-group-item"><i></i>
                                 {{$comment->body}}
                             </li>
-                            <li>
-                                <button>like</button>
-                                <button>dontLike</button>
+                                <button class="js-like_button" data-comment-id="{{$comment->id}}">like {{$comment->like}}</button>
+                                <button class="js-dislike_button" data-comment-id="{{$comment->id}}">dislike {{$comment->dislike}}</button>
                         @endforeach
                     </ul>
                 </div>
@@ -45,7 +44,6 @@
                             <form>
                                 {{ csrf_field() }}
                                 <div class="form-group">
-
                                 </div>
                             </form>
                         </div>
@@ -66,6 +64,10 @@
                         </div>
                     </div>
                 @endif
+
+                Сейчас на сайте находиться {{rand(0, 5)}}
+                <br>
+
                 Количество просмотров  {{$post->view_count}}
             </div>
             {{--_______________________Right column for advertising____________________--}}

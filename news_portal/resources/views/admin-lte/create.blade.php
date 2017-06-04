@@ -32,7 +32,7 @@
             <div class="form-group">
                 <label class="col-lg-3 control-label">Номер пользователя: </label>
                 <div class="col-lg-8">
-                    <input id="note2" class="form-control" name="user_id" type="number" value="{{1}}">
+                    <input id="note2" class="form-control" name="user_id" type="number" value="{{Auth::user()->id}}">
                 </div>
             </div>
             <div class="form-group">
