@@ -26,8 +26,6 @@ namespace Illuminate\Support\Facades;
  */
 class Auth extends Facade
 {
-    protected $guard = 'Admin';
-
     /**
      * Get the registered name of the component.
      *

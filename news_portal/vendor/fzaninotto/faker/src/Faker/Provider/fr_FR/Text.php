@@ -100,7 +100,7 @@ de coude, il la ramassa encore une fois.
 
 Il y eut un rire éclatant des écoliers qui décontenança le pauvre
 garçon, si bien qu'il ne savait s'il fallait garder sa casquette à
-la layouts, la laisser par terre ou la mettre sur sa tête. Il se
+la main, la laisser par terre ou la mettre sur sa tête. Il se
 rassit et la posa sur ses genoux.
 
 -- Levez-vous, reprit le professeur, et dites-moi votre nom.
@@ -154,7 +154,7 @@ Tout reprit son calme. Les têtes se courbèrent sur les cartons, et
 le nouveau resta pendant deux heures dans une tenue exemplaire,
 quoiqu'il y eût bien, de temps à autre, quelque boulette de papier
 lancée d'un bec de plume qui vînt s'éclabousser sur sa figure.
-Mais il s'essuyait avec la layouts, et demeurait immobile, les yeux
+Mais il s'essuyait avec la main, et demeurait immobile, les yeux
 baissés.
 
 Le soir, à l'Étude, il tira ses bouts de manches de son pupitre,
@@ -365,7 +365,7 @@ taper sur des tables de marbre de petits os de mouton marqués de
 points noirs, lui semblait un acte précieux de sa liberté, qui le
 rehaussait d'estime vis-à-vis de lui-même. C'était comme
 l'initiation au monde, l'accès des plaisirs défendus; et, en
-entrant, il posait la layouts sur le bouton de la porte avec une joie
+entrant, il posait la main sur le bouton de la porte avec une joie
 presque sensuelle. Alors, beaucoup de choses comprimées en lui, se
 dilatèrent; il apprit par coeur des couplets qu'il chantait aux
 bienvenues, s'enthousiasma pour Béranger, sut faire du punch et
@@ -504,7 +504,7 @@ mangeaient tranquillement dans des râteliers neufs. Le long des
 bâtiments s'étendait un large fumier, de la buée s'en élevait, et,
 parmi les poules et les dindons, picoraient dessus cinq ou six
 paons, luxe des basses-cours cauchoises. La bergerie était longue,
-la grange était haute, à murs lisses comme la layouts. Il y avait
+la grange était haute, à murs lisses comme la main. Il y avait
 sous le hangar deux grandes charrettes et quatre charrues, avec
 leurs fouets, leurs colliers, leurs équipages complets, dont les
 toisons de laine bleue se salissaient à la poussière fine qui
@@ -549,7 +549,7 @@ doigts, qu'elle portait ensuite à sa bouche pour les sucer.
 
 Charles fut surpris de la blancheur de ses ongles. Ils étaient
 brillants, fins du bout, plus nettoyés que les ivoires de Dieppe,
-et taillés en amande. Sa layouts pourtant n'était pas belle, point
+et taillés en amande. Sa main pourtant n'était pas belle, point
 assez pâle peut-être, et un peu sèche aux phalanges; elle était
 trop longue aussi, et sans molles inflexions de lignes sur les
 contours. Ce qu'elle avait de beau, c'étaient les yeux; quoiqu'ils
@@ -633,7 +633,7 @@ d'entrer. Il aimait à se voir arriver dans la cour, à sentir
 contre son épaule la barrière qui tournait, et le coq qui chantait
 sur le mur, les garçons qui venaient à sa rencontre. Il aimait la
 grange et les écuries; il aimait le père Rouault; qui lui tapait
-dans la layouts en l'appelant son sauveur; il aimait les petits
+dans la main en l'appelant son sauveur; il aimait les petits
 sabots de mademoiselle Emma sur les dalles lavées de la cuisine;
 ses talons hauts la grandissaient un peu, et, quand elle marchait
 devant lui, les semelles de bois, se relevant vite, claquaient
@@ -688,7 +688,7 @@ Pauvre bonhomme, d'ailleurs, qui sans les colzas de l'an passé,
 eût été bien embarrassé de payer ses arrérages!
 
 Par lassitude, Charles cessa de retourner aux Bertaux. Héloïse lui
-avait fait jurer qu'il n'irait plus, la layouts sur son livre de
+avait fait jurer qu'il n'irait plus, la main sur son livre de
 messe, après beaucoup de sanglots et de baisers, dans une grande
 explosion d'amour. Il obéit donc; mais la hardiesse de son désir
 protesta contre la servilité de sa conduite, et, par une sorte
@@ -1239,7 +1239,7 @@ tilbury.
 
 Il était donc heureux et sans souci de rien au monde. Un repas en
 tête-à-tête, une promenade le soir sur la grande route, un geste
-de sa layouts sur ses bandeaux, la vue de son chapeau de paille
+de sa main sur ses bandeaux, la vue de son chapeau de paille
 accroché à l'espagnolette d'une fenêtre, et bien d'autres choses
 encore où Charles n'avait jamais soupçonné de plaisir, composaient
 maintenant la continuité de son bonheur. Au lit, le matin, et côte
@@ -1395,7 +1395,7 @@ plus tard, elle s'éprit de choses historiques, rêva bahuts, salle
 des gardes et ménestrels. Elle aurait voulu vivre dans quelque
 vieux manoir, comme ces châtelaines au long corsage, qui, sous le
 trèfle des ogives, passaient leurs jours, le coude sur la pierre
-et le menton dans la layouts, à regarder venir du fond de la campagne
+et le menton dans la main, à regarder venir du fond de la campagne
 un cavalier à plume blanche qui galope sur un cheval noir. Elle
 eut dans ce temps-là le culte de Marie Stuart, et des vénérations
 enthousiastes à l'endroit des femmes illustres ou infortunées.
@@ -1532,7 +1532,7 @@ Si Charles l'avait voulu cependant, s'il s'en fût douté, si son
 regard, une seule fois, fût venu à la rencontre de sa pensée, il
 lui semblait qu'une abondance subite se serait détachée de son
 coeur, comme tombe la récolte d'un espalier quand on y porte la
-layouts. Mais, à mesure que se serrait davantage l'intimité de leur
+main. Mais, à mesure que se serrait davantage l'intimité de leur
 vie; un détachement intérieur se faisait qui la déliait de lui.
 
 La conversation de Charles était plate comme un trottoir de rue,
@@ -1563,7 +1563,7 @@ Ainsi secoué par elle, le vieil instrument, dont les cordes
 frisaient, s'entendait jusqu'au bout du village si la fenêtre
 était ouverte, et souvent le clerc de l'huissier qui passait sur
 la grande route, nu-tête et en chaussons, s'arrêtait à l'écouter,
-sa feuille de papier à la layouts.
+sa feuille de papier à la main.
 
 Emma, d'autre part; savait conduire sa maison. Elle envoyait aux
 malades le compte des visites, dans des lettres bien tournées, qui
@@ -1734,7 +1734,7 @@ tomba dans sa vie: elle fut invitée à la Vaubyessard, chez le
 marquis d'Andervilliers.
 
 Secrétaire d'État sous la Restauration, le Marquis, cherchant à
-rentrer dans la vie politique, préparait de longue layouts sa
+rentrer dans la vie politique, préparait de longue main sa
 candidature à la Chambre des députés. Il faisait, l'hiver, de
 nombreuses distributions de fagots, et, au Conseil général,
 réclamait avec exaltation toujours des routes pour son
@@ -1981,7 +1981,7 @@ Mais, aux fulgurations de l'heure présente, sa vie passée, si
 nette jusqu'alors, s'évanouissait tout entière, et elle doutait
 presque de l'avoir vécue. Elle était là; puis autour du bal, il
 n'y avait plus que de l'ombre, étalée sur tout le reste. Elle
-mangeait alors une glace au marasquin, qu'elle tenait de la layouts
+mangeait alors une glace au marasquin, qu'elle tenait de la main
 gauche dans une coquille de vermeil, et fermait à demi les yeux,
 la cuiller entre les dents.
 
@@ -1992,7 +1992,7 @@ passait.
 ramasser mon éventail, qui est derrière ce canapé!
 
 Le monsieur s'inclina, et, pendant qu'il faisait le mouvement
-d'étendre son bras, Emma vit la layouts de la jeune dame qui jetait
+d'étendre son bras, Emma vit la main de la jeune dame qui jetait
 dans son chapeau quelque chose de blanc, plié en triangle. Le
 monsieur, ramenant l'éventail, l'offrit à la dame,
 respectueusement; elle le remercia d'un signe de tête et se mit à
@@ -2030,7 +2030,7 @@ mouvement plus rapide, le vicomte, l'entraînant, disparut avec
 elle jusqu'au bout de la galerie, où, haletante, elle faillit
 tomber, et, un instant, s'appuya la tête sur sa poitrine. Et puis,
 tournant toujours, mais plus doucement, il la reconduisit à sa
-place; elle se renversa contre la muraille et mit la layouts devant
+place; elle se renversa contre la muraille et mit la main devant
 ses yeux.
 
 Quand elle les rouvrit, au milieu du salon, une dame assise sur un
@@ -2829,7 +2829,7 @@ sous la grande porte! L'Hirondelle est capable de la défoncer en
 arrivant! Appelle Polyte pour qu'il la remise!... Dire que, depuis
 le matin, monsieur Homais, ils ont peut-être fait quinze parties
 et bu huit pots de cidre!... Mais ils vont me déchirer le tapis,
-continuait-elle en les regardant de loin, son écumoire à la layouts.
+continuait-elle en les regardant de loin, son écumoire à la main.
 
 -- Le mal ne serait pas grand, répondit M. Homais vous en
 achèteriez un autre.
@@ -2980,7 +2980,7 @@ même en contemplant la voûte éthérée, comme les anciens. Mon Dieu,
 à moi, c'est le Dieu de Socrate, de Franklin, de Voltaire et de
 Béranger! Je suis pour la Profession de foi du vicaire savoyard et
 les immortels principes de 89! Aussi, je n'admets pas un bonhomme
-de bon Dieu qui se promène dans son parterre la canne à la layouts,
+de bon Dieu qui se promène dans son parterre la canne à la main,
 loge ses amis dans le ventre des baleines, meurt en poussant un
 cri et ressuscite au bout de trois jours: choses absurdes en
 elles-mêmes et complètement opposées, d'ailleurs, à toutes les
@@ -3223,7 +3223,7 @@ il semble que c'est vous qui palpitez sous leurs costumes.
 -- C'est vrai! c'est vrai! disait-elle.
 
 -- Vous est-il arrivé parfois, reprit Léon, de rencontrer dans un
-livre une idée vague que l'on a eue, quelque images obscurcie qui
+livre une idée vague que l'on a eue, quelque image obscurcie qui
 revient de loin, et comme l'exposition entière de votre sentiment
 le plus délié?
 
@@ -3281,10 +3281,10 @@ examinèrent tout, parlèrent de tout jusqu'à la fin du dîner.
 Quand le café fut servi, Félicité s'en alla préparer la chambre
 dans la nouvelle maison, et les convives bientôt levèrent le
 siège. Madame Lefrançois dormait auprès des cendres, tandis que le
-garçon d'écurie, une lanterne à la layouts, attendait M. et madame
+garçon d'écurie, une lanterne à la main, attendait M. et madame
 Bovary pour les conduire chez eux. Sa chevelure rouge était
 entremêlée de brins de paille, et il boitait de la jambe gauche.
-Lorsqu'il eut pris de son autre layouts le parapluie de M. le curé,
+Lorsqu'il eut pris de son autre main le parapluie de M. le curé,
 l'on se mit en marche.
 
 Le bourg était endormi. Les piliers des halles allongeaient de
@@ -3584,7 +3584,7 @@ et il y avait tout autour plusieurs guenilles indistinctes, des
 bas de tricot, une camisole d'indienne rouge, et un grand drap de
 toile épaisse étalé en long sur la haie. Au bruit de la barrière,
 la nourrice parut, tenant sur son bras un enfant qui tétait. Elle
-tirait de l'autre layouts un pauvre marmot chétif, couvert de
+tirait de l'autre main un pauvre marmot chétif, couvert de
 scrofules au visage, le fils d'un bonnetier de Rouen, que ses
 parents trop occupés de leur négoce laissaient à la campagne.
 
@@ -3600,7 +3600,7 @@ lavoir, près d'une bouteille pleine d'huile qui portait une plume
 poudreuse, parmi des pierres à fusil, des bouts de chandelle et
 des morceaux d'amadou. Enfin la dernière superfluité de cet
 appartement était une Renommée soufflant dans des trompettes,
-images découpée sans doute à même quelque prospectus de parfumerie,
+image découpée sans doute à même quelque prospectus de parfumerie,
 et que six pointes à sabot clouaient au mur.
 
 L'enfant d'Emma dormait à terre, dans un berceau d'osier. Elle la
@@ -3785,12 +3785,12 @@ Léon, deux fois par jour, allait de son étude au Lion d'or. Emma,
 de loin, l'entendait venir; elle se penchait en écoutant, et le
 jeune homme glissait derrière le rideau, toujours vêtu de même
 façon et sans détourner la tête. Mais au crépuscule, lorsque, le
-menton dans sa layouts gauche, elle avait abandonné sur ses genoux sa
+menton dans sa main gauche, elle avait abandonné sur ses genoux sa
 tapisserie commencée, souvent elle tressaillait à l'apparition de
 cette ombre glissant tout à coup. Elle se levait et commandait
 qu'on mît le couvert.
 
-M Homais arrivait pendant le dîner. Bonnet grec à la layouts, il
+M Homais arrivait pendant le dîner. Bonnet grec à la main, il
 entrait à pas muets pour ne déranger personne et toujours en
 répétant la même phrase: «Bonsoir la compagnie!» Puis, quand il
 s'était posé à sa place, contre la table, entre les deux époux, il
@@ -3991,7 +3991,7 @@ Charles fut parti, lorsqu'elle se sentit seule, le parallèle
 recommença dans la netteté d'une sensation presque immédiate et
 avec cet allongement de perspective que le souvenir donne aux
 objets. Regardant de son lit le feu clair qui brûlait, elle voyait
-encore, comme là-bas, Léon debout, faisant plier d'une layouts sa
+encore, comme là-bas, Léon debout, faisant plier d'une main sa
 badine et tenant de l'autre Athalie, qui suçait tranquillement un
 morceau de glace. Elle le trouvait charmant; elle ne pouvait s'en
 détacher; elle se rappela ses autres attitudes en d'autres jours,
@@ -4238,7 +4238,7 @@ Mais elle était pleine de convoitises, de rage, de haine. Cette
 robe aux plis droits cachait un coeur bouleversé, et ces lèvres si
 pudiques n'en racontaient pas la tourmente. Elle était amoureuse
 de Léon, et elle recherchait la solitude, afin de pouvoir plus à
-l'aise se délecter en son images. La vue de sa personne troublait
+l'aise se délecter en son image. La vue de sa personne troublait
 la volupté de cette méditation. Emma palpitait au bruit de ses
 pas; puis, en sa présence, l'émotion tombait, et il ne lui restait
 ensuite qu'un immense étonnement qui se finissait en tristesse.
@@ -4519,7 +4519,7 @@ bien un verre d'eau fraîche avec de la cassonade.
 
 Et elle avait l'air de quelqu'un qui se réveille d'un songe.
 
--- C'est que vous passiez la layouts sur votre front. J'ai cru qu'un
+-- C'est que vous passiez la main sur votre front. J'ai cru qu'un
 étourdissement vous prenait.
 
 Puis, se ravisant:
@@ -4577,7 +4577,7 @@ table à ouvrage, la petite Berthe était là, qui chancelait sur ses
 bottines de tricot, et essayait de se rapprocher de sa mère, pour
 lui saisir, par le bout, les rubans de son tablier.
 
--- Laisse-moi! dit celle-ci en l'écartant avec la layouts.
+-- Laisse-moi! dit celle-ci en l'écartant avec la main.
 
 La petite fille bientôt revint plus près encore contre ses genoux;
 et, s'y appuyant des bras, elle levait vers elle son gros oeil
@@ -4781,7 +4781,7 @@ remit à sa mère.
 Ils restèrent seuls.
 
 Madame Bovary, le dos tourné, avait la figure posée contre un
-carreau; Léon tenait sa casquette à la layouts et la battait
+carreau; Léon tenait sa casquette à la main et la battait
 doucement le long de sa cuisse.
 
 -- Il va pleuvoir, dit Emma.
@@ -4801,7 +4801,7 @@ Elle releva sa tête d'un mouvement brusque:
 
 -- Oui, adieu..., partez!
 
-Ils s'avancèrent l'un vers l'autre; il tendit la layouts, elle
+Ils s'avancèrent l'un vers l'autre; il tendit la main, elle
 hésita.
 
 -- À l'anglaise donc, fit-elle abandonnant la sienne tout en
@@ -4810,7 +4810,7 @@ s'efforçant de rire.
 Léon la sentit entre ses doigts, et la substance même de tout son
 être lui semblait descendre dans cette paume humide.
 
-Puis il ouvrit la layouts; leurs yeux se rencontrèrent encore, et il
+Puis il ouvrit la main; leurs yeux se rencontrèrent encore, et il
 disparut.
 
 Quand il fut sous les halles, il s'arrêta, et il se cacha derrière
@@ -4898,7 +4898,7 @@ faire de très beaux mariages.
 -- Mais, dit le médecin, j'ai peur pour lui que... là-bas...
 
 -- Vous avez raison, interrompit l'apothicaire, c'est le revers de
-la médaille! et l'on y est obligé continuellement d'avoir la layouts
+la médaille! et l'on y est obligé continuellement d'avoir la main
 posée sur son gousset. Ainsi, vous êtes dans un jardin public, je
 suppose; un quidam se présente, bien mis, décoré même, et qu'on
 prendrait pour un diplomate; il vous aborde; vous causez; il
@@ -5019,7 +5019,7 @@ elle dépensa en un mois pour quatorze francs de citrons à se
 nettoyer les ongles; elle écrivit à Rouen, afin d'avoir une robe
 en cachemire bleu; elle choisit chez Lheureux la plus belle de ses
 écharpes; elle se la nouait à la taille par-dessus sa robe de
-chambre; et, les volets fermés, avec un livre à la layouts, elle
+chambre; et, les volets fermés, avec un livre à la main, elle
 restait étendue sur un canapé dans cet accoutrement.
 
 Souvent, elle variait sa coiffure: elle se mettait à la chinoise,
@@ -5285,7 +5285,7 @@ charmant!... Oui, mais comment s'en débarrasser ensuite?
 Alors les encombrements du plaisir, entrevus en perspective, le
 firent, par contraste, songer à sa maîtresse. C'était une
 comédienne de Rouen, qu'il entretenait; et, quand il se fut arrêté
-sur cette images, dont il avait, en souvenir même, des
+sur cette image, dont il avait, en souvenir même, des
 rassasiements:
 
 -- Ah! madame Bovary, pensa-t-il, est bien plus jolie qu'elle,
@@ -5530,7 +5530,7 @@ sont à l'est.
 
 Et madame Bovary, non plus que Rodolphe, ne lui répondait guère,
 tandis qu'au moindre mouvement qu'ils faisaient, il se rapprochait
-en disant: «Plaît-il?» et portait la layouts à son chapeau.
+en disant: «Plaît-il?» et portait la main à son chapeau.
 
 Quand ils furent devant la maison du maréchal, au lieu de suivre
 la route jusqu'à la barrière, Rodolphe, brusquement, prit un
@@ -5563,7 +5563,7 @@ avec leurs grands parapluies, leurs paniers et leurs bambins.
 Souvent il fallait se déranger devant une longue file de
 campagnardes, servantes en bas-bleus, à souliers plats, à bagues
 d'argent, et qui sentaient le lait, quand on passait près d'elles.
-Elles marchaient en se tenant par la layouts, et se répandaient ainsi
+Elles marchaient en se tenant par la main, et se répandaient ainsi
 sur toute la longueur de la prairie, depuis la ligne des trembles
 jusqu'à la tente du banquet. Mais c'était le moment de l'examen,
 et les cultivateurs, les uns après les autres, entraient dans une
@@ -5618,7 +5618,7 @@ manchettes plissées bouffait au hasard du vent, dans l'ouverture
 de son gilet, qui était de coutil gris, et son pantalon à larges
 raies découvrait aux chevilles ses bottines de nankin, claquées de
 cuir verni. Elles étaient si vernies, que l'herbe s'y reflétait.
-Il foulait avec elles les crottins de cheval, une layouts dans la
+Il foulait avec elles les crottins de cheval, une main dans la
 poche de sa veste et son chapeau de paille mis de côté.
 
 -- D'ailleurs, ajouta-t-il, quand on habite la campagne...
@@ -5788,7 +5788,7 @@ sera partagé par vous tous), qu'il me soit permis, dis-je de
 rendre justice à l'administration supérieure, au gouvernement, au
 monarque, messieurs, à notre souverain, à ce roi bien-aimé à qui
 aucune branche de la prospérité publique ou particulière n'est
-indifférente, et qui dirige à la fois d'une layouts si ferme et si
+indifférente, et qui dirige à la fois d'une main si ferme et si
 sage le char de l'État parmi les périls incessants d'une mer
 orageuse, sachant d'ailleurs faire respecter la paix comme la
 guerre, l'industrie, le commerce, l'agriculture et les beaux-
@@ -5868,7 +5868,7 @@ n'ose y croire; on en reste ébloui, comme si l'on sortait des
 ténèbres à la lumière.
 
 Et, en achevant ces mots; Rodolphe ajouta la pantomime à sa
-phrase. Il se passa la layouts sur le visage, tel qu'un homme pris
+phrase. Il se passa la main sur le visage, tel qu'un homme pris
 d'étourdissement; puis il la laissa retomber sur celle d'Emma.
 Elle retira la sienne. Mais le Conseiller lisait toujours:
 
@@ -5917,7 +5917,7 @@ poche. Il reprit:
 «Et qu'aurais-je à faire, messieurs, de vous démontrer ici
 l'utilité de l'agriculture? Qui donc pourvoit à nos besoins? qui
 donc fournit à notre subsistance? N'est-ce pas l'agriculteur?
-L'agriculteur, messieurs, qui, ensemençant d'une layouts laborieuse
+L'agriculteur, messieurs, qui, ensemençant d'une main laborieuse
 les sillons féconds des campagnes, fait naître le blé, lequel
 broyé est mis en poudre au moyen d'ingénieux appareils, en sort
 sous le nom de farine, et, de là, transporté dans les cités, est
@@ -5944,7 +5944,7 @@ multitude se tenaient ouvertes, comme pour boire ses paroles.
 Tuvache, à côté de lui, l'écoutait en écarquillant les yeux;
 M. Derozerays, de temps à autre, fermait doucement les paupières;
 et, plus loin, le pharmacien, avec son fils Napoléon entre ses
-jambes, bombait sa layouts contre son oreille pour ne pas perdre une
+jambes, bombait sa main contre son oreille pour ne pas perdre une
 seule syllabe. Les autres membres du jury balançaient lentement
 leur menton dans leur gilet, en signe d'approbation. Les pompiers,
 au bas de l'estrade, se reposaient sur leurs baïonnettes; et
@@ -6022,7 +6022,7 @@ routine, ni les conseils trop hâtifs d'un empirisme téméraire!
 Appliquez-vous surtout à l'amélioration du sol, aux bons engrais,
 au développement des races chevalines, bovines, ovines et
 porcines! Que ces comices soient pour vous comme des arènes
-pacifiques où le vainqueur, en en sortant, tendra la layouts au
+pacifiques où le vainqueur, en en sortant, tendra la main au
 vaincu et fraternisera avec lui, dans l'espoir d'un succès
 meilleur! Et vous, vénérables serviteurs! humbles domestiques,
 dont aucun gouvernement jusqu'à ce jour n'avait pris en
@@ -6060,7 +6060,7 @@ hasard l'a voulu? C'est qu'à travers l'éloignement, sans doute,
 comme deux fleuves qui coulent pour se rejoindre, nos pentes
 particulières nous avaient poussés l'un vers l'autre.
 
-Et il saisit sa layouts; elle ne la retira pas.
+Et il saisit sa main; elle ne la retira pas.
 
 «Ensemble de bonnes cultures!» cria le président.
 
@@ -6101,7 +6101,7 @@ pensée, dans votre vie?
 «Race porcine, prix ex aequo: à MM. Lehérissé et Cullembourg;
 soixante francs!»
 
-Rodolphe lui serrait la layouts, et il la sentait toute chaude et
+Rodolphe lui serrait la main, et il la sentait toute chaude et
 frémissante comme une tourterelle captive qui veut reprendre sa
 volée; mais, soit qu'elle essayât de la dégager ou bien qu'elle
 répondît à cette pression, elle fit un mouvement des doigts; il
@@ -6512,7 +6512,7 @@ Et il agita son journal en les regardant s'éloigner.
 
 Dès qu'il sentit la terre, le cheval d'Emma prit le galop.
 Rodolphe galopait à côté d'elle. Par moments ils échangeaient une
-parole. La figure un peu baissée, la layouts haute et le bras droit
+parole. La figure un peu baissée, la main haute et le bras droit
 déployé, elle s'abandonnait à la cadence du mouvement qui la
 berçait sur la selle.
 
@@ -6682,7 +6682,7 @@ buissons, les mêmes cailloux dans l'herbe. Rien autour d'eux
 n'avait changé; et pour elle, cependant, quelque chose était
 survenu de plus considérable que si les montagnes se fussent
 déplacées. Rodolphe, de temps à autre, se penchait et lui prenait
-sa layouts pour la baiser.
+sa main pour la baiser.
 
 Elle était charmante, à cheval! Droite, avec sa taille mince, le
 genou plié sur la crinière de sa bête et un peu colorée par le
@@ -6801,7 +6801,7 @@ l'eau.
 
 Mais, quand la planche aux vaches était levée, il fallait suivre
 les murs qui longeaient la rivière; la berge était glissante; elle
-s'accrochait de la layouts, pour ne pas tomber, aux bouquets de
+s'accrochait de la main, pour ne pas tomber, aux bouquets de
 ravenelles flétries. Puis elle prenait à travers des champs en
 labour, où elle enfonçait, trébuchait et empêtrait ses bottines
 minces. Son foulard, noué sur sa tête, s'agitait au vent dans les
@@ -7342,7 +7342,7 @@ après quinze siècles d'intervalle, la ligature immédiate d'une
 artère; ni Dupuytren allant ouvrir un abcès à travers une couche
 épaisse d'encéphale; ni Gensoul, quand il fit la première ablation
 de maxillaire supérieur, n'avaient certes le coeur si palpitant,
-la layouts si frémissante, l'intellect aussi tendu que M. Bovary
+la main si frémissante, l'intellect aussi tendu que M. Bovary
 quand il approcha d'Hippolyte, son ténotome entre les doigts. Et,
 comme dans les hôpitaux, on voyait à côté, sur une table, un tas
 de charpie, des fils cirés, beaucoup de bandes, une pyramide de
@@ -7377,7 +7377,7 @@ tête; mais ses yeux se reportèrent sur Charles: elle remarqua même
 avec surprise qu'il n'avait point les dents vilaines.
 
 Ils étaient au lit lorsque M. Homais, malgré la cuisinière, entra
-tout à coup dans la chambre, en tenant à la layouts une feuille de
+tout à coup dans la chambre, en tenant à la main une feuille de
 papier fraîche écrite. C'était la réclame qu'il destinait au Fanal
 de Rouen. Il la leur apportait à lire.
 
@@ -7723,7 +7723,7 @@ en restait encore s'écroulait sous les coups furieux de son
 orgueil. Elle se délectait dans toutes les ironies mauvaises de
 l'adultère triomphant. Le souvenir de son amant revenait à elle
 avec des attractions vertigineuses: elle y jetait son âme,
-emportée vers cette images par un enthousiasme nouveau; et Charles
+emportée vers cette image par un enthousiasme nouveau; et Charles
 lui semblait aussi détaché de sa vie, aussi absent pour toujours,
 aussi impossible et anéanti, que s'il allait mourir et qu'il eût
 agonisé sous ses yeux.
@@ -7731,7 +7731,7 @@ agonisé sous ses yeux.
 Il se fit un bruit de pas sur le trottoir. Charles regarda; et, à
 travers la jalousie baissée, il aperçut au bord des halles, en
 plein soleil, le docteur Canivet qui s'essuyait le front avec son
-foulard. Homais, derrière lui, portait à la layouts une grande boîte
+foulard. Homais, derrière lui, portait à la main une grande boîte
 rouge, et ils se dirigeaient tous les deux du côté de la
 pharmacie.
 
@@ -7820,7 +7820,7 @@ jupons de basin, les fichus, les collerettes, et les pantalons à
 coulisse, vastes de hanches et qui se rétrécissaient par le bas.
 
 -- À quoi cela sert-il? demandait le jeune garçon en passant sa
-layouts sur la crinoline ou les agrafes.
+main sur la crinoline ou les agrafes.
 
 -- Tu n'as donc jamais rien vu? répondait en riant Félicité; comme
 si ta patronne, madame Homais, n'en portait pas de pareils.
@@ -7919,7 +7919,7 @@ Trois jours après, Lheureux reparut.
 -- J'ai un arrangement à vous proposer, dit-il; si, au lieu de la
 somme convenue, vous vouliez prendre...
 
--- La voilà, fit-elle en lui plaçant dans la layouts quatorze
+-- La voilà, fit-elle en lui plaçant dans la main quatorze
 napoléons.
 
 Le marchand fut stupéfait. Alors, pour dissimuler son
@@ -8042,7 +8042,7 @@ conjura de céder; il se mit à genoux; elle finit par répondre:
 
 -- Soit! j'y vais.
 
-En effet, elle tendit la layouts à sa belle-mère avec une dignité de
+En effet, elle tendit la main à sa belle-mère avec une dignité de
 marquise, en lui disant:
 
 -- Excusez-moi, madame.
@@ -8418,7 +8418,7 @@ pâles. C'était un mouchoir à elle, une fois qu'elle avait saigné
 du nez, en promenade; il ne s'en souvenait plus. Il y avait
 auprès, se cognant à tous les angles, la miniature donnée par
 Emma; sa toilette lui parut prétentieuse et son regard en coulisse
-du plus pitoyable effet; puis, à force de considérer cette images
+du plus pitoyable effet; puis, à force de considérer cette image
 et d'évoquer le souvenir du modèle, les traits d'Emma peu à peu se
 confondirent en sa mémoire, comme si la figure vivante et la
 figure peinte, se frottant l'une contre l'autre, se fussent
@@ -8445,7 +8445,7 @@ En effet, ces femmes, accourant à la fois dans sa pensée, s'y
 gênaient les unes les autres et s'y rapetissaient, comme sous un
 même niveau d'amour qui les égalisait. Prenant donc à poignée les
 lettres confondues, il s'amusa pendant quelques minutes à les
-faire tomber en cascades, de sa layouts droite dans sa layouts gauche.
+faire tomber en cascades, de sa main droite dans sa main gauche.
 Enfin, ennuyé, assoupi, Rodolphe alla reporter la boîte dans
 l'armoire en se disant:
 
@@ -8640,7 +8640,7 @@ Elle s'arrêta.
 
 L'idée qu'elle venait d'échapper à la mort faillit la faire
 s'évanouir de terreur; elle ferma les yeux; puis elle tressaillit
-au contact d'une layouts sur sa manche: c'était Félicité.
+au contact d'une main sur sa manche: c'était Félicité.
 
 -- Monsieur vous attend, Madame; la soupe est servie.
 
@@ -8695,7 +8695,7 @@ toi, mange!
 Car elle redoutait qu'on ne fût à la questionner, à la soigner,
 qu'on ne la quittât plus.
 
-Charles, pour obéir, s'était rassis, et il crachait dans sa layouts
+Charles, pour obéir, s'était rassis, et il crachait dans sa main
 les noyaux des abricots, qu'il déposait ensuite dans son assiette.
 
 Tout à coup, un tilbury bleu passa au grand trot sur la place.
@@ -8827,7 +8827,7 @@ pas à pas, en traînant ses pantoufles, et, s'appuyant de l'épaule
 contre Charles, elle continuait à sourire.
 
 Ils allèrent ainsi jusqu'au fond, près de la terrasse. Elle se
-redressa lentement, se mit la layouts devant ses yeux, pour regarder;
+redressa lentement, se mit la main devant ses yeux, pour regarder;
 elle regarda au loin, tout au loin; mais il n'y avait à l'horizon
 que de grands feux d'herbe, qui fumaient sur les collines.
 
@@ -9304,7 +9304,7 @@ des barriques.
 
 De peur de paraître ridicule, Emma voulut, avant d'entrer, faire
 un tour de promenade sur le port, et Bovary, par prudence, garda
-les billets à sa layouts, dans la poche de son pantalon, qu'il
+les billets à sa main, dans la poche de son pantalon, qu'il
 appuyait contre son ventre.
 
 Un battement de coeur la prit dès le vestibule. Elle sourit
@@ -9523,7 +9523,7 @@ Il ajouta:
 Et, comme il achevait ces mots, l'ancien clerc d'Yonville entra
 dans la loge.
 
-Il tendit sa layouts avec un sans-façon de gentilhomme: et madame
+Il tendit sa main avec un sans-façon de gentilhomme: et madame
 Bovary machinalement avança la sienne, sans doute obéissant à
 l'attraction d'une volonté plus forte. Elle ne l'avait pas sentie
 depuis ce soir de printemps où il pleuvait sur les feuilles
@@ -9873,7 +9873,7 @@ comme autrefois, quand, par les matins d'été, le soleil frappait
 sur les jalousies... et j'apercevais vos deux bras nus qui
 passaient entre les fleurs.
 
--- Pauvre ami! fit-elle en lui tendant la layouts.
+-- Pauvre ami! fit-elle en lui tendant la main.
 
 Léon, bien vite, y colla ses lèvres. Puis, quand il eut largement
 respiré:
@@ -10146,7 +10146,7 @@ Emma était pâle. Elle marchait vite.
 
 -- Lisez! dit-elle en lui tendant un papier... Oh non!
 
-Et brusquement elle retira sa layouts, pour entrer dans la chapelle
+Et brusquement elle retira sa main, pour entrer dans la chapelle
 de la Vierge, où, s'agenouillant contre une chaise, elle se mit en
 prière.
 
@@ -10363,7 +10363,7 @@ navire.
 
 Une fois, au milieu du jour, en pleine campagne, au moment où le
 soleil dardait le plus fort contre les vieilles lanternes
-argentées, une layouts nue passa sous les petits rideaux de toile
+argentées, une main nue passa sous les petits rideaux de toile
 jaune et jeta des déchirures de papier, qui se dispersèrent au
 vent et s'abattirent plus loin, comme des papillons blancs, sur un
 champ de trèfles rouges tout en fleur.
@@ -10416,7 +10416,7 @@ brunes pleines de groseilles égrenées, du sucre râpé, du sucre en
 morceaux, des balances sur la table, des bassines sur le feu, elle
 aperçut tous les Homais, grands et petits, avec des tabliers qui
 leur montaient jusqu'au menton et tenant des fourchettes à la
-layouts. Justin, debout, baissait la tête, et le pharmacien criait:
+main. Justin, debout, baissait la tête, et le pharmacien criait:
 
 -- Qui t'avait dit de l'aller chercher dans le capharnaüm?
 
@@ -10600,7 +10600,7 @@ bras ouverts et lui dit avec des larmes dans la voix:
 
 Et il s'inclina doucement pour l'embrasser. Mais, au contact de
 ses lèvres, le souvenir de l'autre la saisit, et elle se passa la
-layouts sur son visage en frissonnant.
+main sur son visage en frissonnant.
 
 Cependant elle répondit:
 
@@ -10675,7 +10675,7 @@ acheté tantôt... à une mendiante.
 
 Charles prit les violettes, et, rafraîchissant dessus ses yeux
 tout rouges de larmes, il les humait délicatement. Elle les retira
-vite de sa layouts, et alla les porter dans un verre d'eau.
+vite de sa main, et alla les porter dans un verre d'eau.
 
 Le lendemain, madame Bovary mère arriva. Elle et son fils
 pleurèrent beaucoup. Emma, sous prétexte d'ordres à donner,
@@ -10900,7 +10900,7 @@ et les deux yeux vers le ciel. Parfois l'ombre des saules la
 cachait en entier, puis elle réapparaissait tout à coup, comme une
 vision, dans la lumière de la lune.
 
-Léon, par terre, à côté d'elle, rencontra sous sa layouts un ruban de
+Léon, par terre, à côté d'elle, rencontra sous sa main un ruban de
 soie ponceau.
 
 Le batelier l'examina et finit par dire:
@@ -11448,7 +11448,7 @@ murmurer:
 -- Ah! que nous serions bien là pour vivre!
 
 -- Ne sommes-nous pas heureux? reprenait doucement le jeune homme,
-en lui passant la layouts sur ses bandeaux.
+en lui passant la main sur ses bandeaux.
 
 -- Oui, c'est vrai, disait-elle, le suis folle; embrasse-moi!
 
@@ -11606,7 +11606,7 @@ illimité de rendez-vous que ces deux mille francs représentaient:
 l'on veut sur les factures. Est-ce que je ne connais pas les
 ménages?
 
-Et il la considérait fixement, tout en tenant à sa layouts deux longs
+Et il la considérait fixement, tout en tenant à sa main deux longs
 papiers qu'il faisait glisser entre ses ongles. Enfin, ouvrant son
 portefeuille, il étala sur la table quatre billets à ordre, de
 mille francs chacun.
@@ -11801,7 +11801,7 @@ s'écriant:
 
 -- Et de quoi?... Où?... Comment?...
 
-Elle se passa la layouts sur le front, et répondit:
+Elle se passa la main sur le front, et répondit:
 
 -- Chez mademoiselle Lempereur.
 
@@ -11879,7 +11879,7 @@ street, _et _Je me la casse_, pour: Je m'en vais.
 Donc, un jeudi, Emma fut surprise de rencontrer, dans la cuisine
 du Lion d'or, M. Homais en costume de voyageur, c'est-à-dire
 couvert d'un vieux manteau qu'on ne lui connaissait pas, tandis
-qu'il portait d'une layouts une valise, et, de l'autre, la
+qu'il portait d'une main une valise, et, de l'autre, la
 chancelière de son établissement. Il n'avait confié son projet à
 personne, dans la crainte d'inquiéter le public par son absence.
 
@@ -12558,7 +12558,7 @@ bon temps.
 
 -- Ça ne nuit jamais, répliqua-t-il.
 
-Elle fut lâche, elle le supplia; et même elle appuya sa jolie layouts
+Elle fut lâche, elle le supplia; et même elle appuya sa jolie main
 blanche et longue, sur les genoux du marchand.
 
 -- Laissez-moi donc! On dirait que vous voulez me séduire!
@@ -12658,7 +12658,7 @@ Souvent il faisait des exclamations:
 -- Charmant!... fort joli!
 
 Puis il se remettait à écrire, trempant sa plume dans l'encrier de
-corne qu'il tenait de la layouts gauche.
+corne qu'il tenait de la main gauche.
 
 Quand ils en eurent fini avec les appartements, ils montèrent au
 grenier.
@@ -12672,7 +12672,7 @@ contient pas autre chose.
 
 Et il inclina les papiers, légèrement, comme pour en faire tomber
 des napoléons. Alors l'indignation la prit, à voir cette grosse
-layouts, aux doigts rouges et mous comme des limaces, qui se posait
+main, aux doigts rouges et mous comme des limaces, qui se posait
 sur ces pages où son coeur avait battu.
 
 Ils partirent enfin! Félicité rentra. Elle l'avait envoyée aux
@@ -12794,7 +12794,7 @@ rougissant:
 -- Pourtant, si tu ne me voyais pas à trois heures, ne m'attends
 plus, ma chérie. Il faut que je m'en aille, excuse-moi. Adieu!
 
-Il serra sa layouts, mais il la sentit tout inerte. Emma n'avait plus
+Il serra sa main, mais il la sentit tout inerte. Emma n'avait plus
 la force d'aucun sentiment.
 
 Quatre heures sonnèrent; et elle se leva pour s'en retourner à
@@ -12830,7 +12830,7 @@ se sentait perdue, roulant au hasard dans des abîmes
 indéfinissables; et ce fut presque avec joie qu'elle aperçut, en
 arrivant à la Croix rouge, ce bon Homais qui regardait charger sur
 l'Hirondelle une grande boîte pleine de provisions
-pharmaceutiques. Il tenait à sa layouts, dans un foulard, six
+pharmaceutiques. Il tenait à sa main, dans un foulard, six
 cheminots pour son épouse.
 
 Madame Homais aimait beaucoup ces petits pains lourds, en forme de
@@ -12845,7 +12845,7 @@ détestable dentition; aussi, toutes les fois que M. Homais faisait
 un voyage à la ville, il ne manquait pas de lui en rapporter,
 qu'il prenait toujours chez le grand faiseur, rue Massacre.
 
--- Charmé de vous voir! dit-il en offrant la layouts à Emma pour
+-- Charmé de vous voir! dit-il en offrant la main à Emma pour
 l'aider à monter dans l'Hirondelle.
 
 Puis il suspendit les cheminots aux lanières du filet, et resta
@@ -12917,7 +12917,7 @@ Elle fut, à neuf heures du matin, réveillée par un bruit de voix
 sur la place. Il y avait un attroupement autour des halles pour
 lire une grande affiche collée contre un des poteaux, et elle vit
 Justin qui montait sur une borne et qui déchirait l'affiche. Mais,
-à ce moment, le garde champêtre lui posa la layouts sur le collet.
+à ce moment, le garde champêtre lui posa la main sur le collet.
 M. Homais sortit de la pharmacie, et la mère Lefrançois, au milieu
 de la foule, avait l'air de pérorer.
 
@@ -12968,7 +12968,7 @@ une.
 
 Le notaire entra, serrant du bras gauche contre son corps sa robe
 de chambre à palmes, tandis qu'il ôtait et remettait vite de
-l'autre layouts sa toque de velours marron, prétentieusement posée
+l'autre main sa toque de velours marron, prétentieusement posée
 sur le côté droit, où retombaient les bouts de trois mèches
 blondes qui, prises à l'occiput, contournaient son crâne chauve.
 
@@ -13033,7 +13033,7 @@ au contraire, qui devrais me plaindre! À peine si nous nous
 connaissons! Je vous suis pourtant très dévoué; vous n'en doutez
 plus, j'espère?
 
-Il tendit sa layouts, prit la sienne, la couvrit d'un baiser vorace,
+Il tendit sa main, prit la sienne, la couvrit d'un baiser vorace,
 puis la garda sur son genou; et il jouait avec ses doigts
 délicatement, tout en lui contant mille douceurs.
 
@@ -13231,7 +13231,7 @@ bientôt à se rappeler la journée de la veille.
 
 -- Quelle heure est-il? demanda-t-elle.
 
-La mère Rolet sortit, leva les doigts de sa layouts droite du côté
+La mère Rolet sortit, leva les doigts de sa main droite du côté
 que le ciel était le plus clair, et rentra lentement en disant:
 
 -- Trois heures, bientôt.
@@ -13358,7 +13358,7 @@ Et elle soupira.
 
 -- O Rodolphe! si tu savais... Je t'ai bien aimé!
 
-Ce fut alors qu'elle prit sa layouts, et ils restèrent quelque temps
+Ce fut alors qu'elle prit sa main, et ils restèrent quelque temps
 les doigts entrelacés, -- comme le premier jour, aux Comices! Par
 un geste d'orgueil, il se débattait sous l'attendrissement. Mais,
 s'affaissant contre sa poitrine, elle lui dit:
@@ -13381,7 +13381,7 @@ ris, je suis heureuse!... parle donc!
 Et elle était ravissante à voir, avec son regard où tremblait une
 larme, comme l'eau d'un orage dans un calice bleu.
 
-Il l'attira sur ses genoux, et il caressait du revers de la layouts
+Il l'attira sur ses genoux, et il caressait du revers de la main
 ses bandeaux lisses, où, dans la clarté du crépuscule, miroitait
 comme une flèche d'or un dernier rayon du soleil. Elle penchait le
 front; il finit par la baiser sur les paupières, tout doucement,
@@ -13577,7 +13577,7 @@ Et il la suivit.
 
 La clef tourna dans la serrure, et elle alla droit vers la
 troisième tablette, tant son souvenir la guidait bien, saisit le
-bocal bleu, en arracha le bouchon, y fourra sa layouts, et, la
+bocal bleu, en arracha le bouchon, y fourra sa main, et, la
 retirant pleine d'une poudre blanche, elle se mit à manger à même.
 
 -- Arrêtez! s'écria-t-il en se jetant sur elle.
@@ -13671,7 +13671,7 @@ Mais elle dit d'une voix forte:
 -- Non, tu te trompes!
 
 Alors, délicatement et presque en la caressant, il lui passa la
-layouts sur l'estomac. Elle jeta un cri aigu. Il se recula tout
+main sur l'estomac. Elle jeta un cri aigu. Il se recula tout
 effrayé.
 
 Puis elle se mit à geindre, faiblement d'abord. Un grand frisson
@@ -13700,7 +13700,7 @@ avait jamais vu.
 -- Eh bien, là..., là!... dit-elle d'une voix défaillante.
 
 Il bondit au secrétaire, brisa le cachet et lut tout haut: Qu'on
-n'accuse personne... Il s'arrêta, se passa la layouts sur les yeux,
+n'accuse personne... Il s'arrêta, se passa la main sur les yeux,
 et relut encore.
 
 -- Comment!... Au secours! à moi!
@@ -13755,7 +13755,7 @@ j'ai pu pourtant!
 
 -- Oui..., c'est vrai..., tu es bon, toi!
 
-Et elle lui passait la layouts dans les cheveux, lentement. La
+Et elle lui passait la main dans les cheveux, lentement. La
 douceur de cette sensation surchargeait sa tristesse; il sentait
 tout son être s'écrouler de désespoir à l'idée qu'il fallait la
 perdre, quand, au contraire, elle avouait pour lui plus d'amour
@@ -13808,7 +13808,7 @@ Sa mère la regardait.
 
 -- J'ai peur! dit la petite en se reculant.
 
-Emma prit sa layouts pour la baiser; elle se débattait.
+Emma prit sa main pour la baiser; elle se débattait.
 
 -- Assez! qu'on l'emmène! s'écria Charles, qui sanglotait dans
 l'alcôve.
@@ -14067,7 +14067,7 @@ dire qu'elle devait à présent joindre ses souffrances à celles de
 Jésus-Christ et s'abandonner à la miséricorde divine.
 
 En finissant ses exhortations, il essaya de lui mettre dans la
-layouts un cierge bénit, symbole des gloires célestes dont elle
+main un cierge bénit, symbole des gloires célestes dont elle
 allait tout à l'heure être environnée. Emma, trop faible, ne put
 fermer les doigts, et le cierge, sans M. Bournisien, serait tombé
 à terre.
@@ -14486,7 +14486,7 @@ Puis Félicité vint dire qu'il demandait des cheveux.
 -- Coupez-en! répliqua l'apothicaire.
 
 Et, comme elle n'osait, il s'avança lui-même, les ciseaux à la
-layouts. Il tremblait si fort, qu'il piqua la peau des tempes en
+main. Il tremblait si fort, qu'il piqua la peau des tempes en
 plusieurs places. Enfin, se raidissant contre l'émotion, Homais
 donna deux ou trois grands coups au hasard, ce qui fit des marques
 blanches dans cette belle chevelure noire.
@@ -14658,7 +14658,7 @@ Parfois ils disparaissaient aux détours du sentier; mais la grande
 croix d'argent se dressait toujours entre les arbres.
 
 Les femmes suivaient, couvertes de mantes noires à capuchon
-rabattu; elles portaient à la layouts un gros cierge qui brûlait, et
+rabattu; elles portaient à la main un gros cierge qui brûlait, et
 Charles se sentait défaillir à cette continuelle répétition de
 prières et de flambeaux, sous ces odeurs affadissantes de cire et
 de soutane. Une brise fraîche soufflait, les seigles et les colzas
@@ -14692,7 +14692,7 @@ dessus. Il la regarda descendre. Elle descendait toujours.
 
 Enfin on entendit un choc; les cordes en grinçant remontèrent.
 Alors Bournisien prit la bêche que lui tendait Lestiboudois; de sa
-layouts gauche, tout en aspergeant de la droite, il poussa
+main gauche, tout en aspergeant de la droite, il poussa
 vigoureusement une large pelletée; et le bois du cercueil, heurté
 par les cailloux, fit ce bruit formidable qui nous semble être le
 retentissement de l'éternité.
@@ -14762,7 +14762,7 @@ Mais, quand il fut au haut de la côte, il se détourna, comme
 autrefois il s'était détourné sur le chemin de Saint-Victor, en se
 séparant d'elle. Les fenêtres du village étaient tout en feu sous
 les rayons obliques du soleil, qui se couchait dans la prairie. Il
-mit sa layouts devant ses yeux; et il aperçut à l'horizon un enclos
+mit sa main devant ses yeux; et il aperçut à l'horizon un enclos
 de murs où des arbres, çà et là, faisaient des bouquets noirs
 entre des pierres blanches, puis il continua sa route, au petit
 trot, car son bidet boitait.
@@ -14993,7 +14993,7 @@ _amabilem conjugem calcas_! qui fut adopté.
 
 Une chose étrange, c'est que Bovary, tout en pensant à Emma
 continuellement, l'oubliait; et il se désespérait à sentir cette
-images lui échapper de la mémoire au milieu des efforts qu'il
+image lui échapper de la mémoire au milieu des efforts qu'il
 faisait pour la retenir. Chaque nuit pourtant, il la rêvait;
 c'était toujours le même rêve: il s'approchait d'elle; mais, quand
 il venait à l'étreindre, elle tombait en pourriture dans ses bras.
@@ -15519,7 +15519,7 @@ EOT;
     unless a copyright notice is included.  Thus, we do not necessarily
     keep eBooks in compliance with any particular paper edition.
 
-    Most people start at our Web site which has the layouts PG search facility:
+    Most people start at our Web site which has the main PG search facility:
 
          http://www.gutenberg.net
 

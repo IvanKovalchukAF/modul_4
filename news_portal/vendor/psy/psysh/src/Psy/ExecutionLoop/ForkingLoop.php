@@ -45,7 +45,7 @@ class ForkingLoop extends Loop
         if ($pid < 0) {
             throw new \RuntimeException('Unable to start execution loop.');
         } elseif ($pid > 0) {
-            // This is the layouts thread. We'll just wait for a while.
+            // This is the main thread. We'll just wait for a while.
 
             // We won't be needing this one.
             fclose($up);
@@ -79,7 +79,7 @@ class ForkingLoop extends Loop
         // Let's do some processing.
         parent::run($shell);
 
-        // Send the scope variables back up to the layouts thread
+        // Send the scope variables back up to the main thread
         fwrite($up, $this->serializeReturn($shell->getScopeVariables(false)));
         fclose($up);
 

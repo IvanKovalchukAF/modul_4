@@ -2,7 +2,7 @@
 class Issue2158Test extends PHPUnit_Framework_TestCase
 {
     /**
-     * Set constant in layouts process
+     * Set constant in main process
      */
     public function testSomething()
     {
@@ -11,7 +11,7 @@ class Issue2158Test extends PHPUnit_Framework_TestCase
     }
 
     /**
-     * Constant defined previously in layouts process constant should be available and
+     * Constant defined previously in main process constant should be available and
      * no errors should be yielded by reload of included files
      *
      * @runInSeparateProcess

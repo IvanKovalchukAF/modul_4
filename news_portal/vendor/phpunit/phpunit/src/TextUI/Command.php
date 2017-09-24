@@ -246,7 +246,7 @@ class PHPUnit_TextUI_Command
      *     // PHPUnit_TextUI_Command will mean that it'll be
      *     // PHPUnit_TextUI_Command that gets instantiated,
      *     // not MyCommand
-     *     public static function layouts($exit = true)
+     *     public static function main($exit = true)
      *     {
      *         $command = new static;
      *

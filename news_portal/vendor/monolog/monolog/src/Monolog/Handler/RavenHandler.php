@@ -82,7 +82,7 @@ class RavenHandler extends AbstractProcessingHandler
             return;
         }
 
-        // the record with the highest severity is the "layouts" one
+        // the record with the highest severity is the "main" one
         $record = array_reduce($records, function ($highest, $record) {
             if ($record['level'] > $highest['level']) {
                 return $record;
